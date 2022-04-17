@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\vs\Entity2D.h(44,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\vs\Entity2D.h(51,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\vs\Drone.h(4,1): warning C4005: 'ALIVE_TIME': macro redefinition
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\vs\ParticleSystem.h(6): message : see previous definition of 'ALIVE_TIME'
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(69,65): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(89,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(111,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(134,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(183,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(197,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(223,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(229,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(232,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(242,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(253,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(267,40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(405,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(405,33): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(448,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\vs\Utils.h(74,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\src\main.cpp(229): message : see reference to function template instantiation 'void spawn_projectile<Bullet*>(T,Entity2D *,std::vector<Bullet *,std::allocator<Bullet *>> &,float)' being compiled
+          with
+          [
+              T=Bullet *
+          ]
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\vs\Utils.h(77,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\vs\Utils.h(80,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  i3d.vcxproj -> C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\Assignment 1 Code\i3d64dbg.exe

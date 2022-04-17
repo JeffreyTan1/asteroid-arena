@@ -1,0 +1,7 @@
+﻿Walls.obj : error LNK2005: "public: virtual void __cdecl Asteroid2::render(void)" (?render@Asteroid2@@UEAAXXZ) already defined in Asteroid2.obj
+Walls.obj : error LNK2005: "public: virtual void __cdecl Asteroid2::update(float)" (?update@Asteroid2@@UEAAXM@Z) already defined in Asteroid2.obj
+Walls.obj : error LNK2005: "public: virtual void __cdecl Asteroid2::init(void)" (?init@Asteroid2@@UEAAXXZ) already defined in Asteroid2.obj
+Walls.obj : error LNK2005: "public: __cdecl Asteroid2::~Asteroid2(void)" (??1Asteroid2@@QEAA@XZ) already defined in Asteroid2.obj
+Walls.obj : error LNK2005: "public: __cdecl Asteroid2::Asteroid2(void)" (??0Asteroid2@@QEAA@XZ) already defined in Asteroid2.obj
+main.obj : error LNK2001: unresolved external symbol "public: __cdecl Walls::Walls(void)" (??0Walls@@QEAA@XZ)
+C:\Users\tanma\Google Drive\Synced Desktop\Y3S1\IGA Files\Assignments\code\vs\\..\i3d64.exe : fatal error LNK1120: 1 unresolved externals
